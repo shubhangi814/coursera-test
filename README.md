@@ -10,24 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-<html>
-<head>
-  <meta charset="utf-8">
-</head>
-<title>Solution is </title>
-  <title>Module 4 Solution</title>
-  <script>
-    var names = []; // DO NOT REMOVE
-  </script>
-@@ -11,6 +11,7 @@
-  <script src="script.js"></script>
-</head>
-<body>
-  <h1>Module 4 Solution starter</h1>
-  <h1>shubhangi's Module 4 Solution</h1>
-  <h3>Inspect the page and checkout the Console in the Developer Tools.</h3>
-</body>
-</html>
 
 # Header 1
 ## Header 2
